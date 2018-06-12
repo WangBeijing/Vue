@@ -6,8 +6,8 @@ module.exports = {
     themeConfig: {
         // 添加导航栏
         nav: [
-          { text: '阅读', link: '/vue/' },
-          { text: 'css', link: '/css/' },
+          { text: '阅读', link: '/read/' },
+          { text: '前端工程化', link: '/engineering/' },
           {
             text: '常用工具',
             // 这里是下拉列表展现形式。
@@ -20,11 +20,11 @@ module.exports = {
         ],
         // 为以下路由添加侧边栏
         sidebar: {
-            '/vue/': [
+            '/read/': [
               'one',
               'two'
             ],
-            '/css/': [
+            '/engineering/': [
               'three',
               'four'
             ]
