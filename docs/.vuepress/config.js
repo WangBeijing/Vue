@@ -11,6 +11,7 @@ module.exports = {
             items:[
               {text:'推荐阅读', link:'/read/'},
               {text:'经典语录', link:'/words/'},
+              {text:'名人传记', link:'/nbMan/'},
             ]
           },
           { text: '前端很嗨',
@@ -68,6 +69,9 @@ module.exports = {
               '7',
               '8',
               '9'
+            ],
+            '/nbMan/':[
+              '1'
             ]
           }
       }
