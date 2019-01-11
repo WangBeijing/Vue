@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{324:function(t,e,n){"use strict";n.r(e);var l=n(1),s=Object(l.a)({},function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"cpt-hello"},[this._v("Components组件")])},[],!1,null,null,null);s.options.__file="my-hello.vue";e.default=s.exports}}]);
