@@ -1,7 +1,7 @@
 module.exports = {
     title: '阿强想赢',  // 设置网站标题
     dest: './dist',    // 设置输出目录
-    base: '/', // 设置站点根路径
+    base: '/vuepress/', // 设置站点根路径
     repo: 'https://github.com/txs1992/mt-blog', // 添加 github 链接
     sidebarDepth:1,//侧边栏自动显示当前激活页面中标题的链接,侧边栏自动显示当前激活页面中标题的链接，默认深度是 1
     themeConfig: {
